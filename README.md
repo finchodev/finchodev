@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👋 Hello!
+Welcome to my GitHub profile.
 
-<!--
-**ZeltuxDev/ZeltuxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeltuxDev)](https://github.com/ZeltuxDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeltuxDev&layout=compact)](https://github.com/ZeltuxDev)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## `> What I like making`
+ - Websites
+   - HTML5, CSS, NodeJS
+ - Discord & Slack bots
+   - Discord.js, Bolt.js, Conflict
+ - Frameworks
+
+## `> What I'm working on`
+ - Eclipse Proxy
+ - This
+
+## `> Where you can find me`
+ - Discord: [@Zeltux#8335](https://discord.com/users/933504543960989726) (add me!)
+ - Email: [zeltux21@gmail.com](mailto:zeltux21@gmail.com?subject=Support)
