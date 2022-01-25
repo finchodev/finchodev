@@ -18,4 +18,4 @@ Welcome to my GitHub profile.
 
 ## `> Where you can find me`
  - Discord: [@Zeltux#8335](https://discord.com/users/933504543960989726) (add me!)
- - Email: [zeltux21@gmail.com]
+ - Email: zeltux21@gmail.com
