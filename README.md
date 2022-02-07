@@ -7,13 +7,16 @@ Welcome to my GitHub profile.
 
 ## `> What I like making`
  - Websites
-   - HTML5, CSS, NodeJS
- - Discord & Slack bots
-   - Discord.js, Bolt.js, Conflict
+   - HTML5, CSS, NodeJS, PHP
+ - Discord Bots
+   - Discord.js, Node.js
  - Frameworks
 
 ## `> What I'm working on`
- - Eclipse Proxy
+ - Fracital Proxy
+ - Totally Science
+ - VyroDev
+ - My Website
  - This
 
 ## `> Where you can find me`
