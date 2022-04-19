@@ -10,15 +10,14 @@ Welcome to my GitHub profile.
    - HTML5, CSS, NodeJS, PHP
  - Discord Bots
    - Discord.js, Node.js
- - Frameworks
 
 ## `> What I'm working on`
  - Fracital Proxy
- - Totally Science
- - VyroDev
+ - Stingray Proxy
+ - Ludicrous
  - My Website
- - This
+ - StudySpot
 
 ## `> Where you can find me`
- - Discord: [@Zeltux#8335](https://discord.com/users/933504543960989726) (add me!)
+ - Discord: [@Zeltux#86969](https://discord.com/users/933504543960989726) (add me!)
  - Email: zeltux21@gmail.com
