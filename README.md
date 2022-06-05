@@ -13,11 +13,11 @@ Welcome to my GitHub profile.
 
 ## `> What I'm working on`
  - Fracital Proxy
- - Stingray Proxy
  - Ludicrous
- - My Website
+ - Astral Network
+ - NebulaDev
  - StudySpot
 
 ## `> Where you can find me`
- - Discord: [@Zeltux#86969](https://discord.com/users/933504543960989726) (add me!)
+ - Discord: [@Zeltux#4596](https://discord.com/users/933504543960989726) (add me!)
  - Email: zeltux21@gmail.com
