@@ -7,16 +7,14 @@ Welcome to my GitHub profile.
 
 ## `> What I like making`
  - Websites
-   - HTML5, CSS, NodeJS, PHP
+   - HTML5, CSS, NodeJS, PHP, SocketIO, Typescript
  - Discord Bots
-   - Discord.js, Node.js
+   - Discord.js, Node.js, Python
 
 ## `> What I'm working on`
- - Fracital Proxy
- - Ludicrous
- - Astral Network
- - NebulaDev
- - StudySpot
+ - https://fracital.org
+ - https://ludicrous.icu
+ - https://zeltux.dev (My Site)
 
 ## `> Where you can find me`
  - Discord: [@Zeltux#4596](https://discord.com/users/933504543960989726) (add me!)
